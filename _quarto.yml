@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Tails or Types?"
+  description: "Un Approccio Dimensionale alle Condizioni del Neurosviluppo?"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: approccio-dimensionale.qmd
+        text: "Approccio dimensionale"
+      - href: prove-scientifiche.qmd
+        text: "Prove scientifiche"
+      - href: implicazioni-cliniche.qmd
+        text: "Implicazioni cliniche"
+      - href: metodi-analisi.qmd
+        text: "Metodi di analisi"
+      - href: risorse-bibliografia.qmd
+        text: "Risorse e bibliografia"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    code-fold: false
+    lang: it
