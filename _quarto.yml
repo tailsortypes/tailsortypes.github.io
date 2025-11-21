@@ -6,6 +6,7 @@ website:
   title: "Tails or Types?"
   description: "Un Approccio Dimensionale alle Condizioni del Neurosviluppo?"
   navbar:
+    favicon: /images/logo.png
     left:
       - href: index.qmd
         text: "Home"
@@ -22,6 +23,8 @@ website:
 
 format:
   html:
+    link-external-icon: true
+    link-external-newwindow: true
     theme: cosmo
     toc: true
     toc-depth: 2
