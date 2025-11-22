@@ -7,6 +7,8 @@ website:
   description: "Un Approccio Dimensionale alle Condizioni del Neurosviluppo?"
   favicon: images/logo.png   
   navbar:
+    logo: images/logo.png  
+    href: index.html
     left:
       - href: index.html
         text: "Home"
