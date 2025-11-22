@@ -1,6 +1,5 @@
 ---
 toc: false
-include-in-header: assets/header.html
 title: "falli colorati e creativi"
 ---
 
