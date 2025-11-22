@@ -1,6 +1,6 @@
 ---
 toc: false
-title: "ciaooooooo"
+title: ""
 ---
 
 Cosa è rosso e fa male nei denti?

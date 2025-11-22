@@ -1,6 +1,6 @@
 ---
 toc: false
-title: "ciaooooooo"
+title: ""
 ---
 
 Perché il golfista ha portato due paia di pantaloni?
