@@ -8,17 +8,17 @@ website:
   favicon: images/logo.png   
   navbar:
     left:
-      - href: index.qmd
+      - href: index.html
         text: "Home"
-      - href: approccio-dimensionale.qmd
+      - href: approccio-dimensionale.html
         text: "Approccio dimensionale"
-      - href: prove-scientifiche.qmd
+      - href: prove-scientifiche.html
         text: "Prove scientifiche"
-      - href: implicazioni-cliniche.qmd
+      - href: implicazioni-cliniche.html
         text: "Implicazioni cliniche"
-      - href: metodi-analisi.qmd
+      - href: metodi-analisi.html
         text: "Metodi di analisi"
-      - href: risorse-bibliografia.qmd
+      - href: risorse-bibliografia.html
         text: "Risorse e bibliografia"
 
 format:
