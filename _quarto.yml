@@ -19,6 +19,8 @@ website:
         text: "Implicazioni cliniche"
       - href: metodi-analisi.html
         text: "Metodi di analisi"
+      - href: PRIN22.html
+        text: "PRIN22"
       - href: risorse-bibliografia.html
         text: "Risorse e bibliografia"
 
